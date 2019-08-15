@@ -1,0 +1,77 @@
+Day 0
+s s s s s
+s s s s s
+s s i s s
+s s s s s
+s s s s s
+
+Day 1
+s s s s s
+s e e e s
+s e r e s
+s e e e s
+s s s s s
+
+Day 2
+s s s s s
+s i i i s
+s i s i s
+s i i i s
+s s s s s
+
+Day 3
+e e e e e
+e r r r e
+e r e r e
+e r r r e
+e e e e e
+
+Day 4
+i i i i i
+i s s s i
+i s i s i
+i s s s i
+i i i i i
+
+Day 5
+r r r r r
+r e e e r
+r e r e r
+r e e e r
+r r r r r
+
+Day 6
+s s s s s
+s i i i s
+s i s i s
+s i i i s
+s s s s s
+
+Day 7
+e e e e e
+e r r r e
+e r e r e
+e r r r e
+e e e e e
+
+Day 8
+i i i i i
+i s s s i
+i s i s i
+i s s s i
+i i i i i
+
+Day 9
+r r r r r
+r e e e r
+r e r e r
+r e e e r
+r r r r r
+
+Outbreak Ends: Day 9
+Peak Day: Day 4
+S: 0
+E: 8
+I: 0
+R: 17
+V: 0

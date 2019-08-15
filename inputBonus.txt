@@ -1,0 +1,15 @@
+Threshold:1
+Infectious Period:1
+Latent Period:1
+Recovered Period:8
+Display:1
+Max Days:25
+s,s,s,s,s,v,i,r,s
+s,s,s,s,s,v,v,s,v
+s,s,i,s,s,r,r,s,v
+s,s,s,s,s,r,i,v,v
+s,s,s,s,s,s,v,r,r
+v,v,v,s,s,s,v,s,v
+v,i,v,r,r,s,v,s,s
+s,s,v,i,v,s,v,s,v
+v,s,s,s,s,r,r,r,v
